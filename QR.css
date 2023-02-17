@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.white-box {
+    background-color: white;
+    border-radius: 20px;
+    width: 350px;
+    height: 550px;
+    margin:20vh auto 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 10px 37px -7px hsl(220, 15%, 55%);
+}
+
+
+.qr-picture{
+    width: 320px;
+    height: auto;
+    border-radius: 20px;
+    margin: 0;
+    padding: 0px 1px 1px 1px ;
+
+
+
+}
+
+.improving-text{
+    color: hsl(218, 44%, 22%);
+    font-size: 1.5em;
+    text-align: center;
+    font-family: Kanit, sans-serif;
+    margin: 0;
+    padding: 15px;
+
+
+}
+
+.scan-text{
+    color:hsl(220, 15%, 55%);
+    text-align: center;
+    font-size: 1em;
+    font-family: Outfit, sans-serif;
+    padding: 5px 40px 5px 40px;
+    margin: 0;
+
+     
+}
+   
+
+
+
+
+
+
+   
+   
+
+
